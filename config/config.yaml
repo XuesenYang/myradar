@@ -209,6 +209,14 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+    - id: "百度rss-云韬"
+      name: "百度RSS-云韬"
+      url: "https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&rsv_dl=ns_pc&word=title%3A%D4%C6%E8%BA%C7%E2%C4%DC"
+
+    - id: "百度rss-氢能"
+      name: "百度RSS-氢能"
+      url: "https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&rsv_dl=ns_pc&word=title%3A%C7%E2%C4%DC"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
